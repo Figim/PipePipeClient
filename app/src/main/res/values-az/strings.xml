@@ -1057,7 +1057,7 @@
 <string name="disable_exoplayer_media_codec_async_queueing_summary">Bəzi cihazlarda MediaCodec asinxron növbəyəalması səbəbindən yaranan oxutma xətaları üçün həll yolu. Bunun aktivləşdirilməsi uyğunluğu yaxşılaşdıra bilər, lakin oxutma performansını azalda bilər.</string>
 <string name="media_codec_workaround_hint_title">MediaCodec oxutması uğursuz oldu</string>
 <string name="media_codec_async_workaround_hint">Bu uğursuzluq MediaCodec asinxron növbəyəalması səbəbindən ola bilər. ExoPlayer tənzimləmələrində \"MediaCodec asinxron növbəyəalmanı deaktiv et\" seçimini aktivləşdirməyə cəhd edin, sonra oxutmanı yenidən başladın.</string>
-<string name="media_codec_surface_workaround_hint">Bu uğursuzluq video çıxış səthi dəyişdirilərkən baş verdi. ExoPlayer tənzimləmələrində \"Həmişə ExoPlayer-in video çıxış səthi tənzimləmə həll yolundan istifadə et\" seçimini aktivləşdirməyə cəhd edin, sonra oxutmanı yenidən başladın.</string>
+<string name="media_codec_surface_workaround_hint">Bu uğursuzluq video çıxış səthi dəyişdirilərkən baş verdi. ExoPlayer tənzimləmələrində \"Həmişə ExoPlayer-in video çıxış səthi tənzimləm həll yolundan istifadə et\" seçimini aktivləşdirməyə cəhd edin, sonra oxutmanı yenidən başladın.</string>
 <string name="search_inside_channel">%s daxilində axtar</string>
 <string name="show_auto_translated_subtitles_title">Avtomatik tərcümə edilmiş altyazıları göstər</string>
 <string name="show_auto_translated_subtitles_summary">YouTube-un avtomatik tərcümə edilmiş altyazılarını göstər. YouTube girişi tələb olunur.</string>
