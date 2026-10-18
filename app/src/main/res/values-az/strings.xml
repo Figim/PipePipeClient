@@ -75,7 +75,7 @@
 <string name="disable_android_auto_summary">Android 12 və köhnə versiyalarda bildiriş problemlərinin qarşısını almaq üçün Android Auto bağlantısını deaktiv edin.\n\nBu seçimi yenidən aktivləşdirdikdən sonra dəyişikliyin qüvvəyə minməsi üçün tətbiqi yenidən başlamalı və avtomobilə yenidən qoşulmalısınız.</string>
 <string name="seek_duration_title">İrəli/geri sarma müddəti</string>
 <string name="seek_on_media_button_events_title">Əvvəlki/növbəti əvəzinə geri/irəli sar</string>
-<string name="seek_on_media_button_events_summary">Bildirişdə geri/irəli sarma düymələrini göstər (Android 13+) və Bluetooth cihazları ilə qarnitur düymələrinin trekləri keçmək əvəzinə sarı മുസ്‌lərini təmin et. Sarma addımı jest tənzimləmələrindəki “İrəli/geri sarma müddəti” ilə təyin edilir.</string>
+<string name="seek_on_media_button_events_summary">Bildirişdə geri/irəli sarma düymələrini göstər (Android 13+) və Bluetooth cihazları ilə qarnitur düymələrinin trekləri keçmək əvəzinə sarı düymələrini təmin et. Sarma addımı jest tənzimləmələrindəki “İrəli/geri sarma müddəti” ilə təyin edilir.</string>
 <string name="progressive_load_interval_title">Oxutma yüklənmə intervalı ölçüsü</string>
 <string name="progressive_load_interval_summary">Yüklənmə intervalının ölçüsünü dəyişdir (hazırda %s). Aşağı dəyər ilkin video yüklənməsini sürətləndirə bilər. Dəyişikliklər pleyerin yenidən başladılmasını tələb edir</string>
 <string name="download_thumbnail_title">Miniatürləri yüklə</string>
@@ -587,7 +587,7 @@
 <string name="clear_download_history">Endirmə tarixçəsini təmizlə</string>
 <string name="confirm_prompt">Endirmə tarixçənizi təmizləmək və ya bütün endirilmiş faylları silmək istəyirsiniz?</string>
 <string name="delete_downloaded_files">Endirilmiş faylları sil</string>
-<string name="delete_downloaded_files_confirm">Bütün endirilmiş fayllar diskdən silinsin?</string>
+<string name="delete_downloaded_files_confirm">Bütün endirilmiş fayllər diskdən silinsin?</string>
 <plurals name="deleted_downloads_toast">
 <item quantity="one">%1$s endirmə silindi</item>
 <item quantity="other">%1$s endirmə silindi</item>
@@ -821,7 +821,7 @@
 <string name="image_quality_low">Aşağı keyfiyyət</string>
 <string name="image_quality_medium">Orta keyfiyyət</string>
 <string name="image_quality_high">Yüksək keyfiyyət</string>
-<string name="regular_bullet_comments_duration_summary">Normal/sürüşən danmaku müddətini dəyişdirin. Daha قısa müddət donma/ləngimə səbəb ola bilər.</string>
+<string name="regular_bullet_comments_duration_summary">Normal/sürüşən danmaku müddətini dəyişdirin. Daha qısa müddət donma/ləngimə səbəb ola bilər.</string>
 <string name="regular_bullet_comments_duration_title">Normal danmaku müddəti</string>
 <string name="top_bottom_bullet_comments_duration_summary">Yuxarı/aşağı danmaku müddətini dəyişdirin. </string>
 <string name="top_bottom_bullet_comments_duration_title">Yuxarı/aşağı danmaku müddəti</string>
@@ -1115,7 +1115,7 @@
 <string name="dearrow_replace_thumbnails_summary">Yükləyicinin miniatürü əvəzinə videodan real kadr göstər.</string>
 <string name="dearrow_random_frame_title">Ehtiyat variant kimi saxlanılmış kadrdan istifadə et</string>
 <string name="dearrow_random_frame_summary">Heç kim miniatür təqdim etmədikdə, yükləyicinin miniatürü əvəzinə videonun özündən kadr göstər. Canlı yayım və ya tamamilə yeni yükləmə DeArrow serveri tərəfindən işlənir. Kiçik bir şəkil gətirilməsi tələb olunur.</string>
-<string name="dearrow_auto_format_title">BÖYÜK HƏRİFLƏ yazılmış başlıqları düzəlt</string>
+<string name="dearrow_auto_format_title">BÖYÜK HƏRİflə yazılmış başlıqları düzəlt</string>
 <string name="dearrow_auto_format_summary">Bütün hərfləri böyük olan başlıqları cümlə formatına çevir. Qısaltmalar olduğu kimi saxlanılır.</string>
 <string name="dearrow_clear_cache_title">DeArrow keşi təmizlə</string>
 <string name="dearrow_clear_cache_summary">Hər endirilmiş başlığı və miniatürü unut və onları yenidən gətir.</string>
@@ -1167,7 +1167,7 @@
 <string name="list_control_page_channel_videos_title">Kanal videoları</string>
 <string name="list_control_page_playlist_title">Uzaqdan oxutma siyahıları</string>
 <string name="list_control_page_local_playlist_title">Yerli oxutma siyahıları</string>
-<string name="list_control_pages_restart_toast">Dəyişikliyin قüvvəyə minməsi üçün tətbiqi yenidən başladın</string>
+<string name="list_control_pages_restart_toast">Dəyişikliyin qüvvəyə minməsi üçün tətbiqi yenidən başladın</string>
 <string name="name_sort_locale_title">Ad sıralama qaydası</string>
 <string name="name_sort_locale_english">İngilis dili (hərf böyüklüyünə həssas deyil)</string>
 <string name="name_sort_locale_chinese">Çin dili (pinyin)</string>
@@ -1190,7 +1190,7 @@
 <string name="delete_selected_history_confirm">Tarixçədən %d element silinsin?</string>
 <string name="items_deleted">%d element silindi.</string>
 <string name="delete_selected_playlists_confirm">%d oxutma siyahısı silinsin?</string>
-<string name="remove_selected_from_playlist_confirm">%d element oxutma siyahısından silinsin?</string>
+<string name="remove_selected_from_playlist_confirm">Remove %d items from playlist?</string>
 <string name="audio_quality_high">Yüksək (ən yüksək bitreyt)</string>
 <string name="audio_quality_medium">Orta (~128 kbps)</string>
 <string name="audio_quality_low">Aşağı (ən aşağı bitreyt, məlumatlara qənaət edir)</string>
